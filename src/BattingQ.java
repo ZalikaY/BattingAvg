@@ -9,7 +9,7 @@ public class BattingQ {
 		//Variable to store my input
 		int hits=0;
 		//Variable to store input in array
-		int numOfHits[]=new int[hits];
+		
 			
 		System.out.println("Welcome to Batting Average Calculator!");
 		System.out.println("Enter number of times at bat:");
@@ -18,6 +18,7 @@ public class BattingQ {
 		/*System.out.println("Enter the number of batters:");
 		int ba = sc.nextInt();*/
 		
+		int numOfBases []= new int [hits];
 		int atBat[]=new int[ab];
 		
 		//To print an array 
@@ -27,7 +28,14 @@ public class BattingQ {
 			
 			hits=sc.nextInt();
 			
-			if ()
+			//To store Slugging Percent
+			
+			//To divide values
+				
+			
+				
+			}
+			}
 				
 			}
 		
@@ -37,8 +45,8 @@ public class BattingQ {
 			
 		
 		
-		}
-		}
+		
+		
 			
 
 	
